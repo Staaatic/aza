@@ -27,7 +27,7 @@ var snowStorm = (function(window, document) {
     this.flakeHeight = 8;
     this.vMaxX = 5;
     this.vMaxY = 4;
-    this.zIndex = 1;
+    this.zIndex = 10;
   
     var storm = this,
     features,
